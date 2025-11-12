@@ -2,7 +2,8 @@
   "script": "Codex Core",
   "version": "1.6",
   "changelog": [
-    "🧩 Fix Player.state handle for RSG "
+    "🧩 Fix Player.state handle for RSG ",
+    "🧩 Fully Support of TPZ-CORE"
   ]
 }
 
